@@ -123,22 +123,6 @@ describe('Hacker Stories', () => {
         .should('be.visible')
     })
 
-    it('types and submits the form directly', () => {
-      cy.get('#search')
-        .type(newTerm)
-      cy.get('form')
-        .submit()
-
-      cy.wait('@getNewTermStories')
-
-      cy.get('.item').should('have.length', 20)
-      cy.get('.item')
-        .first()
-        .should('contain', newTerm)
-      cy.get(`button:contains(${initialTerm})`)
-        .should('be.visible')
-    })
-
     context('Last searches', () => {
       it('searches via the last searched term', () => {
         cy.intercept(
