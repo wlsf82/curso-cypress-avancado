@@ -28,4 +28,4 @@ Vá para a seção de [pré-requisitos](./lessons/0.md).
 
 ___
 
-Em breve na [**Escola Talking About Testing**](https://talkingabouttesting.coursify.me).
+Um curso da [**Escola Talking About Testing**](https://talkingabouttesting.coursify.me).
