@@ -26,4 +26,4 @@ Agora é hora de colocar os novos conhecimentos em prática.
 
 Quer manter contato? Faça parte do grupo [**Talking About Testing**](https://www.linkedin.com/groups/12492726/) no LinkedIn.
 
-👋 Espero vê-lo nos próximos cursos, e bons testes! 🚀
+👋 Espero vê-lo(a) nos próximos cursos, e bons testes! 🚀
