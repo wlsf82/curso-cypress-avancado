@@ -1,4 +1,9 @@
+const { it } = require('faker/lib/locales')
+
 describe('Hacker Stories', () => {
+  context('Hitting the real API ', function(){
+
+  })
   beforeEach(() => {
     //tu ta fazendo uma interceptação do tipo GET para o segundo parâmetro e dando um alias .as('getStories')
     //cy.intercept('GET', '**/search?query=React&page=0').as('getStories') -> aqui tu passa o caminho da url
