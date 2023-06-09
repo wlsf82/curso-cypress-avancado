@@ -19,18 +19,13 @@
       "it"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wlsf82/curso-cypress-avancado.git"
-  },
   "keywords": [
     "cypress",
     "cypress.io",
     "testing"
   ],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "author": "Eder Cuer",
   "license": "MIT",
-  "homepage": "https://github.com/wlsf82/curso-cypress-avancado#readme",
   "devDependencies": {
     "cypress": "^6.6.0",
     "cypress-localstorage-commands": "^1.4.1",
