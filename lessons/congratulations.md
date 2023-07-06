@@ -4,6 +4,12 @@ Que jornada, hein?
 
 Espero que tenha gostado do curso tanto quanto gostei de ensinar à você.
 
+> 🤓 Caso você queira fazer o upgrade do projeto para uma versão mais recente do Cypress (v10+), siga os passos descritos na _Live_ [Migração dos projetos da Escola TAT para a versão 10 do Cypress - Parte 1](https://www.youtube.com/live/LLFsask2M1w?feature=share&t=2181).
+>
+> **Obs.:** Apesar do título da _Live_ citar a versão 10, o mesmo vale para versões 11, 12, etc.
+
+## Recapitulando
+
 Vamos recapitular o que você aprendeu.
 
 No curso avançado de Cypress, você aprendeu:
